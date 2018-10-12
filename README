@@ -1,0 +1,3 @@
+1.项目中用到的技术又poi导出图片到Excel、文件下载、Jsoup解析xml、batik转换SVG等技术
+2.JS生成的话直接访问index.html
+  后台生成的话是借助于amcharts的使用生成的，amcharts的使用比较简单，参考amcharts官网就可以，访问amcharts.html

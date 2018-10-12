@@ -1,0 +1,19 @@
+<html>
+	<body>
+		<h1>My first SVG</h1>
+		<div>
+			<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="testSvg">
+ 		 		<circle cx="100" cy="50" r="40" stroke="black"
+  				stroke-width="2" fill="red" />
+			</svg>
+		</div>
+		<button onclick="downloadSvg()">download</button>
+	</body>
+	<script src="./JS/saveSvgAsPng.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		function downloadSvg(){
+			//下载的方法--第一个参数是SVG的顶级元素，第二个参数是文件名字
+			saveSvgAsPng(document.getElementById("testSvg"), "diagram.png");
+		}
+	</script>
+</html>

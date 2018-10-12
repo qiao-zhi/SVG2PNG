@@ -1,0 +1,286 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="position: absolute; width: 500px; height: 552px;"> 
+ <desc>
+   JavaScript chart by amCharts 3.4.2 
+ </desc> 
+ <g> 
+  <path cs="100,100" d="M0.5,0.5 L499.5,0.5 L499.5,551.5 L0.5,551.5 Z" fill="#FFFFFF" stroke="#000000" fill-opacity="0" stroke-width="1" stroke-opacity="0"></path> 
+  <path cs="100,100" d="M0.5,0.5 L424.5,0.5 L424.5,476.5 L0.5,476.5 Z" fill="#FFFFFF" stroke="#000000" fill-opacity="0" stroke-width="1" stroke-opacity="0" transform="translate(55,55)" class="amChartsPlotArea"></path> 
+ </g> 
+ <g> 
+  <g transform="translate(55,55)"> 
+   <g> 
+    <path cs="100,100" d="M0.5,48.5 L5.5,48.5" fill="none" stroke-width="1" stroke-opacity="1" stroke="#DADADA" transform="translate(-6,0)"></path> 
+    <path cs="100,100" d="M0.5,0.5 L0.5,0.5 L424.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M0.5,143.5 L5.5,143.5" fill="none" stroke-width="1" stroke-opacity="1" stroke="#DADADA" transform="translate(-6,0)"></path> 
+    <path cs="100,100" d="M0.5,95.5 L0.5,95.5 L424.5,95.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M0.5,238.5 L5.5,238.5" fill="none" stroke-width="1" stroke-opacity="1" stroke="#DADADA" transform="translate(-6,0)"></path> 
+    <path cs="100,100" d="M0.5,190.5 L0.5,190.5 L424.5,190.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M0.5,333.5 L5.5,333.5" fill="none" stroke-width="1" stroke-opacity="1" stroke="#DADADA" transform="translate(-6,0)"></path> 
+    <path cs="100,100" d="M0.5,285.5 L0.5,285.5 L424.5,285.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M0.5,428.5 L5.5,428.5" fill="none" stroke-width="1" stroke-opacity="1" stroke="#DADADA" transform="translate(-6,0)"></path> 
+    <path cs="100,100" d="M0.5,380.5 L0.5,380.5 L424.5,380.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M0.5,476.5 L0.5,476.5 L424.5,476.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+  </g> 
+  <g transform="translate(55,55)" visibility="visible"> 
+   <g> 
+    <path cs="100,100" d="M0.5,0.5 L0.5,5.5" fill="none" stroke-width="1" stroke-opacity="0.2" stroke="#000000" transform="translate(0,-5)"></path> 
+    <path cs="100,100" d="M0.5,476.5 L0.5,476.5 L0.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M21.5,476.5 L21.5,476.5 L21.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M42.5,476.5 L42.5,476.5 L42.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M64.5,476.5 L64.5,476.5 L64.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M85.5,476.5 L85.5,476.5 L85.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M106.5,0.5 L106.5,5.5" fill="none" stroke-width="1" stroke-opacity="0.2" stroke="#000000" transform="translate(0,-5)"></path> 
+    <path cs="100,100" d="M106.5,476.5 L106.5,476.5 L106.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M127.5,476.5 L127.5,476.5 L127.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M148.5,476.5 L148.5,476.5 L148.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M170.5,476.5 L170.5,476.5 L170.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M191.5,476.5 L191.5,476.5 L191.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M212.5,0.5 L212.5,5.5" fill="none" stroke-width="1" stroke-opacity="0.2" stroke="#000000" transform="translate(0,-5)"></path> 
+    <path cs="100,100" d="M212.5,476.5 L212.5,476.5 L212.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M233.5,476.5 L233.5,476.5 L233.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M254.5,476.5 L254.5,476.5 L254.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M276.5,476.5 L276.5,476.5 L276.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M297.5,476.5 L297.5,476.5 L297.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M318.5,0.5 L318.5,5.5" fill="none" stroke-width="1" stroke-opacity="0.2" stroke="#000000" transform="translate(0,-5)"></path> 
+    <path cs="100,100" d="M318.5,476.5 L318.5,476.5 L318.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M339.5,476.5 L339.5,476.5 L339.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M360.5,476.5 L360.5,476.5 L360.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M382.5,476.5 L382.5,476.5 L382.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M403.5,476.5 L403.5,476.5 L403.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.08" stroke="#000000"></path> 
+   </g> 
+   <g> 
+    <path cs="100,100" d="M424.5,0.5 L424.5,5.5" fill="none" stroke-width="1" stroke-opacity="0.2" stroke="#000000" transform="translate(0,-5)"></path> 
+    <path cs="100,100" d="M424.5,476.5 L424.5,476.5 L424.5,0.5" fill="none" stroke-width="1" stroke-dasharray="3" stroke-opacity="0.15" stroke="#000000"></path> 
+   </g> 
+  </g> 
+ </g> 
+ <g></g> 
+ <g></g> 
+ <g> 
+  <g transform="translate(55,55)"> 
+   <g transform="translate(0,389)" visibility="visible"> 
+    <path cs="100,100" d="M0.5,0.5 L0.5,76.5 L204.5,76.5 L204.5,0.5 L0.5,0.5 Z" fill="#ADD981" stroke="#FF6600" fill-opacity="0.8" stroke-width="1" stroke-opacity="0"></path> 
+   </g> 
+   <g transform="translate(0,294)" visibility="visible"> 
+    <path cs="100,100" d="M0.5,0.5 L0.5,76.5 L307.5,76.5 L307.5,0.5 L0.5,0.5 Z" fill="#ADD981" stroke="#FF6600" fill-opacity="0.8" stroke-width="1" stroke-opacity="0"></path> 
+   </g> 
+   <g transform="translate(0,199)" visibility="visible"> 
+    <path cs="100,100" d="M0.5,0.5 L0.5,76.5 L320.5,76.5 L320.5,0.5 L0.5,0.5 Z" fill="#ADD981" stroke="#FF6600" fill-opacity="0.8" stroke-width="1" stroke-opacity="0"></path> 
+   </g> 
+   <g transform="translate(0,104)" visibility="visible"> 
+    <path cs="100,100" d="M0.5,0.5 L0.5,76.5 L237.5,76.5 L237.5,0.5 L0.5,0.5 Z" fill="#ADD981" stroke="#FF6600" fill-opacity="0.8" stroke-width="1" stroke-opacity="0"></path> 
+   </g> 
+   <g transform="translate(0,9)" visibility="visible"> 
+    <path cs="100,100" d="M0.5,0.5 L0.5,76.5 L180.5,76.5 L180.5,0.5 L0.5,0.5 Z" fill="#ADD981" stroke="#FF6600" fill-opacity="0.8" stroke-width="1" stroke-opacity="0"></path> 
+   </g> 
+  </g> 
+ </g> 
+ <g> 
+  <g transform="translate(55,55)"> 
+   <g></g> 
+  </g> 
+  <g transform="translate(55,55)" opacity="1" visibility="visible"> 
+   <g></g> 
+   <g></g> 
+   <g clip-path="url(#AmChartsEl-3)"> 
+    <path cs="100,100" d="M66.5,48.5 L165.5,143.5 L189.5,238.5 L214.5,333.5 L212.5,428.5 M0,0 L0,0" fill="none" stroke-width="2" stroke-opacity="1" stroke="#27c5ff"></path> 
+   </g> 
+   <clippath id="AmChartsEl-3"> 
+    <rect x="0" y="0" width="426" height="478" rx="0" ry="0" stroke-width="0"></rect> 
+   </clippath> 
+  </g> 
+ </g> 
+ <g clip-path="url(#AmChartsEl-2)"></g> 
+ <g> 
+  <g transform="translate(55,55)"> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="end" transform="translate(-12,46)"> 
+    <tspan y="6" x="0">
+      2005 
+    </tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="end" transform="translate(-12,141)"> 
+    <tspan y="6" x="0">
+      2006 
+    </tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="end" transform="translate(-12,236)"> 
+    <tspan y="6" x="0">
+      2007 
+    </tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="end" transform="translate(-12,331)"> 
+    <tspan y="6" x="0">
+      2008 
+    </tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="end" transform="translate(-12,426)"> 
+    <tspan y="6" x="0">
+      2009 
+    </tspan> 
+   </text> 
+  </g> 
+  <g transform="translate(55,55)" visibility="visible"> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="middle" transform="translate(0,-17)"> 
+    <tspan y="6" x="0">
+      15 
+    </tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(24,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(45,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(67,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(88,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="middle" transform="translate(106,-17)"> 
+    <tspan y="6" x="0">
+      20 
+    </tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(130,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(151,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(173,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(194,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="middle" transform="translate(212,-17)"> 
+    <tspan y="6" x="0">
+      25 
+    </tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(236,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(257,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(279,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(300,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="middle" transform="translate(318,-17)"> 
+    <tspan y="6" x="0">
+      30 
+    </tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(342,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(363,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(385,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(406,-12)"> 
+    <tspan y="6" x="0"></tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="middle" transform="translate(424,-17)"> 
+    <tspan y="6" x="0">
+      35 
+    </tspan> 
+   </text> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="12" opacity="1" font-weight="bold" text-anchor="middle" transform="translate(212,-39)"> 
+    <tspan y="6" x="0">
+      Million USD 
+    </tspan> 
+   </text> 
+  </g> 
+ </g> 
+ <g> 
+  <path cs="100,100" d="M0.5,0.5 L0.5,476.5" fill="none" stroke-width="1" stroke-opacity="1" stroke="#DADADA" transform="translate(55,55)"></path> 
+  <path cs="100,100" d="M0.5,0.5 L424.5,0.5" fill="none" stroke-width="1" stroke-opacity="0.2" stroke="#000000" transform="translate(55,55)" visibility="visible"></path> 
+ </g> 
+ <g></g> 
+ <g></g> 
+ <g> 
+  <g transform="translate(55,55)"></g> 
+  <g transform="translate(55,55)" opacity="1" visibility="visible"> 
+   <circle r="4" cx="0" cy="0" fill="#FFFFFF" stroke="#27c5ff" fill-opacity="1" stroke-width="2" stroke-opacity="1" transform="translate(66,48)"></circle> 
+   <circle r="4" cx="0" cy="0" fill="#FFFFFF" stroke="#27c5ff" fill-opacity="1" stroke-width="2" stroke-opacity="1" transform="translate(165,143)"></circle> 
+   <circle r="4" cx="0" cy="0" fill="#FFFFFF" stroke="#27c5ff" fill-opacity="1" stroke-width="2" stroke-opacity="1" transform="translate(189,238)"></circle> 
+   <circle r="4" cx="0" cy="0" fill="#FFFFFF" stroke="#27c5ff" fill-opacity="1" stroke-width="2" stroke-opacity="1" transform="translate(214,333)"></circle> 
+   <circle r="4" cx="0" cy="0" fill="#FFFFFF" stroke="#27c5ff" fill-opacity="1" stroke-width="2" stroke-opacity="1" transform="translate(212,428)"></circle> 
+  </g> 
+ </g> 
+ <g> 
+  <g></g> 
+ </g> 
+ <g id="balloons"></g> 
+ <g> 
+  <g transform="translate(420,63)" visibility="hidden"> 
+   <rect x="0.5" y="0.5" width="68" height="27" rx="0" ry="0" stroke-width="1" fill="#e5e5e5" stroke="#e5e5e5" fill-opacity="1" stroke-opacity="1" opacity="0" transform="translate(-8,-8)"></rect> 
+   <text y="6" fill="#000000" font-family="Verdana" font-size="11" opacity="1" text-anchor="start" transform="translate(0,7)"> 
+    <tspan y="6" x="0">
+      Show all 
+    </tspan> 
+   </text> 
+  </g> 
+ </g> 
+ <g></g> 
+ <clippath id="AmChartsEl-2"> 
+  <rect x="55" y="55" width="424" height="476" rx="0" ry="0" stroke-width="0"></rect> 
+ </clippath> 
+</svg>
